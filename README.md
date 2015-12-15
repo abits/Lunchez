@@ -14,6 +14,10 @@ can then vote on the restaurants with the help of reactions.
 * bs4
 * datetime
 
+## Run Lunchez
+
+    python lunchbot.py
+
 ## Setup
 
 Create slackkeys.py
@@ -49,10 +53,6 @@ Create restaurantlist.py
         "vacationTo": "2016-10-10"                           # End of vacation
       }
     ]
-
-## Run Lunchez
-
-    python lunchbot.py
 
 ## To-Do
 
