@@ -44,9 +44,9 @@ Create restaurantlist.py
         # Required:
         "location": "https://www.google.com/maps/xxxxxxx/",  # Google Maps Link
         "restaurant": "Another Example Restaurant",          # Name of the restaurant
-        "number": "taco",                                    # Slack emoji name. Will turn into :octocat:
+        "number": "taco",                                    # Slack emoji name. Will turn into :taco:
         # Optional:
-        "menu": "http://restaurant.com/weeklymenu",          # Link to the restaurant's menu
+        "menu": "http://restaurant.com/menu",                # Link to the restaurant's menu
         "credit": "yes",                                     # Accepts non-cash payments
         "dayoff": "Monday",                                  # One day off during the week
         "vacationFrom": "2016-01-01",                        # Beginning of vacation
