@@ -39,8 +39,8 @@ Create restaurantlist.py
       {
         # Required:
         "location": "https://www.google.com/maps/xxxxxxx/",  # Google Maps Link
-        "restaurant": "Example Restaurant",                  # Name of the restaurant
-        "number": "octocat",                                 # Slack emoji name. Will turn into :octocat:
+        "restaurant": "Another Example Restaurant",          # Name of the restaurant
+        "number": "taco",                                    # Slack emoji name. Will turn into :octocat:
         # Optional:
         "menu": "http://restaurant.com/weeklymenu",          # Link to the restaurant's menu
         "credit": "yes",                                     # Accepts non-cash payments
@@ -49,3 +49,12 @@ Create restaurantlist.py
         "vacationTo": "2016-10-10"                           # End of vacation
       }
     ]
+
+## Run Lunchez
+
+    python lunchbot.py
+
+## To-Do
+
+* cronjob to automatically start Lunchez at around 11:30am during week days (excluding holidays/office vacation)
+* optional previews for selected restaurants
