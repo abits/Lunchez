@@ -4,6 +4,8 @@ This is **Lunchez**, a bot for Slack written in Python. Lunchez has one
 job: provide a list of restaurants and post it on Slack. Slack users
 can then vote on the restaurants with the help of reactions.
 
+![Lunchez](https://github.com/frank-und-freunde/Lunchez/blob/master/lunchez.png)
+
 ##Dependencies
 
 * Python 3
