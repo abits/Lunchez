@@ -7,7 +7,7 @@ import slackkeys
 import restaurantlist
 # import preview
 
-slack = slackweb.Slack(url=slackkeys.slackKeys['codinggoat'])
+slack = slackweb.Slack(url=slackkeys.slackKeys['TEAM_NAME'])
 
 bot_text = 'This is a sample text. Please replace me before you use this bot.'
 
