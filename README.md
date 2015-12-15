@@ -1,5 +1,9 @@
 # Lunchez - A lunch bot for Slack
 
+This is **Lunchez**, a bot for Slack written in Python. Lunchez has one
+job: provide a list of restaurants and post it on Slack. Slack users
+can then vote on the restaurants with the help of reactions.
+
 ##Dependencies
 
 * Python 3
